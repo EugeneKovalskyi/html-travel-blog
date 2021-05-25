@@ -9,4 +9,4 @@ Used:
  - Animate.css
  - WOW.js
 
-Source: http://psd-html-css.ru/templates/mountain-king-html-bootstrap-shablon
+Source of template: http://psd-html-css.ru/templates/mountain-king-html-bootstrap-shablon
